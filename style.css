@@ -456,7 +456,7 @@ section{
 @media (max-width:991px){
 
     html{
-        font-size: 150%;
+        font-size: 55%;
     }
     
 
@@ -528,7 +528,7 @@ section{
 @media (max-width:450px){
 
     html{
-        font-size: 50%;
+        font-size: 120%;
     }
 
     .contact form .inputBox input{
