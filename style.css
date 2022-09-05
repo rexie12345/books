@@ -456,8 +456,9 @@ section{
 @media (max-width:991px){
 
     html{
-        font-size: 80%;
+        font-size: 100%;
     }
+    
 
     .header{
         padding:1.5rem;
